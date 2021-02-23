@@ -17,5 +17,4 @@ switch ($year) {
     default:
         echo "Auto je způsobilé";  
 } 
-}
-?>
+}?>
